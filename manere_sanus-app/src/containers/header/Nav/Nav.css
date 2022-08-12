@@ -1,0 +1,96 @@
+.logo {
+  width: 3%;
+}
+.proimg {
+  cursor: pointer;
+}
+div#navbarNavDropdown {
+  justify-content: end;
+}
+li.nav-item {
+  padding-right: 10px;
+}
+
+.box-brd {
+  box-shadow: 0px 0px 1px 0px;
+  border-radius: 15px;
+}
+.cost {
+  padding: 25px 0px 25px 0px;
+}
+.cost h5 {
+  padding-bottom: 28px;
+  font-size: 25px;
+}
+.cost button {
+  padding: 10px 30px 10px 30px;
+  border-radius: 8px;
+  background-color: #05ff00;
+  color: #027a00;
+  font-weight: 700;
+}
+.mg {
+  background-color: #fc2a2a;
+  color: #ffffff;
+  width: 74px;
+  height: 71px;
+  border-radius: 50%;
+}
+.mg.text-center.ms-auto p {
+  position: absolute;
+  margin: 24px;
+}
+.costkg {
+  padding: 50px 0px 0px 0px;
+}
+.val {
+  padding-bottom: 2.7rem;
+}
+.kg {
+  background-color: #9eff7b;
+}
+.costkg p {
+  position: absolute !important;
+  margin: 15px 0px 0px 23px !important;
+  color: #027a00;
+}
+.nclass {
+  color: #ff00ff !important;
+}
+
+button.allcor {
+  border: none;
+  padding: 13px 150px 13px 150px;
+  margin: 0px 0px 14px 0px;
+  border-radius: 12px;
+  color: #ffffff;
+  background-color: #ff00ff;
+}
+
+.manu-sec {
+  margin: auto;
+  display: flex;
+  /* flex-direction: row; */
+  width: 75%;
+  flex-wrap: wrap;
+}
+.menu-item.d-flex {
+  width: 48%;
+  margin: 16px 9px 16px 9px;
+  padding-bottom: 9px;
+  padding-top: 5px;
+  background-color: #ff00ff;
+  justify-content: space-between;
+  border-radius: 35px;
+}
+.menu-item img {
+  padding: 5px 0px 0px 18px;
+}
+.menu-item h5 {
+  color: #ffffff;
+  padding: 11px 32px 0px 0px;
+}
+.text-center.copyrit {
+  margin-top: 20px;
+  padding: 5px 0px 5px 0px;
+}

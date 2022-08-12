@@ -1,0 +1,35 @@
+.profileimg {
+  width: 10% !important;
+  border-radius: 50%;
+}
+.cont-div {
+  box-shadow: 0px 0px 1px 0px;
+  border-radius: 9px;
+}
+.cont-div a {
+  text-decoration: none;
+  color: #000;
+}
+.ed-pro img {
+  width: 10%;
+}
+.ed-span {
+  font-size: 27px;
+  position: absolute;
+  right: 44%;
+  margin: -23px 21px 0px 0px;
+  color: #ff00ff;
+}
+.et-bt button.pclr {
+  border: none;
+  color: #fff;
+  margin-top: 20px;
+  padding: 13px 264px;
+  border-radius: 12px;
+  font-weight: 700;
+}
+img.smimg {
+  width: 12%;
+  margin: 10px;
+  border-radius: 10px;
+}

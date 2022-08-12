@@ -1,0 +1,12 @@
+.zumba img {
+    width: 85%;
+}
+.new-text {
+    padding: 40px 65px 0px 71px;
+}
+button.newClose {
+    border: none;
+    padding: 16px 270px;
+    border-radius: 26px;
+    color: #fff;
+}

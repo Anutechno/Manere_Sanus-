@@ -1,0 +1,59 @@
+img.cimg {
+    width: 65%;
+}
+.ag-img{
+    width: 15%;
+    border-radius: 50%;
+}
+button.s-btn {
+    border: none;
+    border-radius: 20px;
+    padding: 8px 34px;
+}
+.cor-rat a {
+    text-decoration: none;
+    color: #000;
+}
+.cor-rat a:hover {
+    color: #FF00FF;
+}
+.cor-item{
+    border-radius: 20px;
+    padding: 3px;
+    margin-bottom: 7px;
+}
+   p.fnt-bold {
+    font-size: 13px;
+    font-weight: 700;
+}
+.cor-p {
+    font-size: 11px;
+    font-weight: 300;
+    color: #AEAEAE;
+}
+.rstar{
+    color: #FFD24A;
+}
+
+.point p {
+    font-size: 19px;
+    font-weight: 700;
+}
+.point span {
+    font-size: 12px;
+}
+.text-end.minut p {
+    font-size: 13px;
+}
+p.tpclr.hours {
+    font-size: 17px;
+    font-weight: 500;
+}
+.vec {
+    width: 4%;
+    height: 2%;
+    padding-top: 9px;
+}
+.imgwrk p {
+    font-weight: 500;
+}

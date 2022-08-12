@@ -1,0 +1,23 @@
+.br-rd{
+    border-radius: 15px;
+}
+.clr-gry{
+    color: #BDBDBD;
+}
+p.p-bolt {
+    font-size: 16px;
+    font-weight: 700;
+}
+button.btn-tik {
+    padding: 5px 15px 5px 15px;
+    border: none;
+    border-radius: 6px;
+    background-color: #ff00ff;
+    color: #ffffff;
+    font-weight: 700;
+}
+.prog{
+    color: #05FF00;
+    font-size: 17px;
+    font-weight: 700;
+}

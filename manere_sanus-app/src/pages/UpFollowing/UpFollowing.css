@@ -1,0 +1,15 @@
+.vac p {
+  margin: 0;
+}
+.d-flex.justify-content-between.foll-sec {
+  margin-bottom: 16px;
+}
+.vac p {
+  margin: 0;
+  font-size: 9px;
+  font-weight: 700;
+}
+.vac span {
+  font-size: 18px;
+  font-weight: 400;
+}

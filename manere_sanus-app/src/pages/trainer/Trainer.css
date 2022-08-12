@@ -1,0 +1,17 @@
+.timg {
+  width: 35%;
+}
+a.lyd {
+  color: #000;
+}
+.prinfo {
+  align-items: center;
+}
+
+button.close {
+  border: none;
+    padding: 15px 250px 15px 250px;
+    border-radius: 20px;
+    color: #ffffff;
+    
+}

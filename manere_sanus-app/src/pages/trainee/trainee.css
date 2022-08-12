@@ -1,0 +1,21 @@
+.todayon {
+    padding: 23px;
+    border-radius: 12px;
+    margin-bottom: 22px;
+}
+.teg-txt {
+    justify-content: center;
+    display: flex;
+}
+
+.days.bx-sho{
+    border-radius: 12px;
+    padding: 15px;
+}
+p.p-day {
+    padding: 15px 55px 24px 26px;
+}
+button.close.pclr {
+    font-size: 20px;
+    font-weight: 700;
+}

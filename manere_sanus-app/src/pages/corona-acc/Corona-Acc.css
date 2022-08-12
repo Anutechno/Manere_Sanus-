@@ -1,0 +1,11 @@
+.head-teg {
+  padding-top: 2rem !important;
+}
+.maner-img{
+    max-width: 100%;
+}
+.form-check-input[type=checkbox] {
+    border-radius: 0.25em;
+    width: 1.2rem;
+    height: 1.2rem;
+}
